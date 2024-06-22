@@ -1,0 +1,84 @@
+{
+  "businessCenter": {
+    "key1": "The project is located in a lively street in Ramallah/Al-Bireh in Hiteen Street, just beside urban commercial development belongs to the Palestinian Investment Fund, Among this street are the Plaza Mall, the Court Buildings, Medical Relief, Al Najah School, The Ship Building, and other Commercial Building.",
+    "key2": "The project land is in a form of a corner with a street leading to the building of Amar Tower, that will have a positive impact on the project and entire area. The Center is going to be one of the most distinguished commercial buildings in Ramallah/Al-Bireh, And it will be built with the highest standards with panoramic view of the natural lighting of its occupants.",
+    "key3": "The building comprises of 6 floors; the building includes three underground floors dedicated to parking for employees, visitors, and private vehicles. In the second floor, there will be a large hall dedicated to conferences and events. While the roles allocated between 3-6 are going to be headquarters of the leading companies and international institutions. Each floor will have an area around of 800 square meters. Each floor will include water treatment units with private toilets. Each floor will be equipped with advanced CCTV security system, Intelligent Building Management System (BMS) and Fiber Optics Networks. This Center will have a ready-run emergency generator and emergency exit, as well as cleaning fire-fighting systems for the entire Business center."
+  },
+  "home": "Home",
+  "sanad": "Sanad Bushnaq",
+  "search": "search...",
+  "projects": {
+    "title": "Projects",
+    "key1": "Bushnaq Businesses Center",
+    "key2": "Bushnaq Medical",
+    "key3": "Bushnaq Agriculture",
+    "key4": "Bushnaq Residential"
+  },
+  "team": "Team",
+  "about": "About",
+  "contact": "Contact",
+  "logout": "Logout",
+  "login": "Login",
+  "signup": "Sign up",
+  "admin": "Admin",
+  "welcomeTo": "Welcome to",
+  "bushnaqGroup": "Bushnaq group",
+  "heroPar": "To be the most innovative Business in the World",
+  "heroBoxes": {
+    "key1": "BUSHNAQ BUSINESSES CENTER",
+    "key2": "BUSHNAQ Medical",
+    "key3": "BUSHNAQ AGRICULTURE",
+    "key4": "BUSHNAQ Residential"
+  },
+  "copyRights": "Copyright . All Rights Reserved",
+  "teamPage": {
+    "title": "Our Team",
+    "par": "We are a group of innovative, experienced, and proficient teams. You will love to collaborate with us."
+  },
+  "aboutPage": {
+    "title": "About",
+    "par": "Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem."
+  },
+  "loginPage": {
+    "yourEmail": " Your Email",
+    "password": "Password",
+    "errEmail": "Please enter a valid email address",
+    "errPassword": "Please enter a valid password",
+    "invCredentials": "invalid credentials"
+  },
+  "signUpPage": {
+    "yourName": "Your Name",
+    "repeatPass": "Repeat Password",
+    "register": "Register",
+    "errName": "Please enter a valid Name",
+    "errPassword": "Please enter a password with at least 6 characters",
+    "errPassMatch": "Passwords do not match",
+    "errEmailInUse": "Email is invalid or already in use"
+  },
+  "adminTeamPage": {
+    "title": "Manage Team members",
+
+    "new": {
+      "title": "New",
+      "par": "Team member details",
+      "fullName": "Full name",
+      "position": "Position",
+      "image": "Personal image",
+      "cancel": "Cancel",
+      "save": "Save",
+      "errName": "Name is required",
+      "errPosition": "Position is required",
+      "errImage": "Image is required",
+      "toastCreated": "Team member created",
+      "toastUpdated": "Team member updated"
+    },
+    "delete": {
+      "title": "Confirm",
+      "par": "Are you sure you want to delete",
+      "questionMark": "?",
+      "no": "No",
+      "yes": "Yes",
+      "toastDeleted": "Team member deleted"
+    }
+  }
+}

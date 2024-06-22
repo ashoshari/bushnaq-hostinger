@@ -1,0 +1,23 @@
+.p-toast {
+  top: 100px !important;
+}
+
+.p-toolbar,
+.p-datatable .p-datatable-header,
+.p-datatable .p-datatable-thead > tr > th,
+.p-datatable .p-datatable-tbody > tr {
+  background-color: #000;
+}
+
+.card {
+  background-color: transparent;
+}
+.p-toolbar-group-start button {
+  background-color: #ffc451;
+  border: none;
+  transition: background-color 0.3s;
+}
+.p-toolbar-group-start button:hover {
+  background-color: #fff;
+  color: #ffc451;
+}

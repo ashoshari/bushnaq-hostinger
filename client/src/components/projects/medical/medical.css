@@ -1,0 +1,39 @@
+.section-title h5::before {
+  position: absolute;
+  content: "";
+  width: 45px;
+  height: 3px;
+  right: -55px;
+  bottom: 11px;
+  background: #06a3da;
+}
+
+.section-title h5::after {
+  position: absolute;
+  content: "";
+  width: 15px;
+  height: 3px;
+  right: -75px;
+  bottom: 11px;
+  background: #f57e57;
+}
+
+.colorBlueish {
+  color: #06a3da !important;
+}
+.bgBlueish {
+  background-color: #06a3da;
+  border: none;
+}
+
+.btn-square {
+  width: 36px;
+  height: 36px;
+  background-color: #06a3da;
+  border: none;
+}
+.btn-square {
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+}

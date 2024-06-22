@@ -1,0 +1,42 @@
+.infoItem {
+  padding: 1.875rem;
+  box-shadow: rgba(255, 255, 255, 0.5) 0px 5px 15px;
+  min-height: 240px;
+}
+
+.infoItemIcon {
+  font-size: 2.375rem;
+  line-height: 0;
+}
+
+.infoItemH3 {
+  font-size: 1.25rem;
+  color: #fff;
+}
+
+.infoItemPar {
+  color: #fff;
+  line-height: 24px;
+  font-size: 0.875rem;
+}
+
+::placeholder {
+  color: #fff !important;
+  opacity: 1; /* Firefox */
+}
+
+.formInput {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ffd584;
+  border-radius: 0;
+  color: #fff !important;
+}
+
+.formInput:focus {
+  background-color: transparent;
+}
+
+.formInput:focus::placeholder {
+  padding-bottom: 100px !important;
+}

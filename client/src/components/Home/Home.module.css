@@ -1,0 +1,43 @@
+.marginRight {
+  margin-right: 12px;
+}
+
+.marginLeft {
+  margin-left: 12px;
+}
+
+.heroPar {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.iconBox {
+  padding: 30px 20px;
+  transition: border-color 1s;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+}
+
+.iconBox:hover {
+  border-color: #ffc451;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    margin-top: 90px;
+  }
+  .heroHeader {
+    font-size: 2rem;
+    line-height: 36px;
+  }
+
+  .heroPar {
+    font-size: 1.25rem;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero {
+    background-attachment: fixed;
+  }
+}
